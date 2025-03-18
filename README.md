@@ -76,7 +76,7 @@ function Call-Pokefetch {
 
 Set-Alias pokefetch Call-Pokefetch
 ```
-4. Save, exit, and restart your shell.
+4. Save, exit, and reload your Powershell profile. `. $PROFILE`
 5. Execute `pokefetch`.
 
 # FAQ
